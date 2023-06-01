@@ -24,7 +24,7 @@ import org.springframework.context.annotation.ImportRuntimeHints;
  * PetClinic Spring Boot Application.
  *
  * @author Dave Syer
- *
+ * test
  */
 @SpringBootApplication
 @ImportRuntimeHints(PetClinicRuntimeHints.class)
